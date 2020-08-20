@@ -1,5 +1,5 @@
 {
-	"name": "edwardkarlsson/laravel-pushover",
+	"name": "stepan-popovych/laravel-pushover",
 	"description": "A simple, yet very powerful, package that helps you get started with sending push notifications to your iOS or Android device through the pushover.net service.",
 	"type": "library",
 	"keywords": ["laravel", "pushover", "notification"],
@@ -16,8 +16,8 @@
 		"fzaninotto/faker": "~1.7"
 	},
 	"require-dev": {
-		"mockery/mockery": "^0.9.5",
-		"phpunit/phpunit": "~7.0"
+		"mockery/mockery": ">=0.9.5",
+		"phpunit/phpunit": ">=7.0"
 	},
 	"autoload": {
 		"psr-4": {
